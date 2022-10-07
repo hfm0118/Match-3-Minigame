@@ -1,0 +1,12 @@
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\bin\Debug\BlockGame.exe.config
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\bin\Debug\BlockGame.exe
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\bin\Debug\BlockGame.pdb
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.AssemblyReference.cache
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.SuggestedBindingRedirects.cache
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\obj\Debug\BlockGame.Form1.resources
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\obj\Debug\BlockGame.Properties.Resources.resources
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.GenerateResource.cache
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.CoreCompileInputs.cache
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\obj\Debug\BlockGame.exe
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\obj\Debug\BlockGame.pdb
+D:\.University\Homework\7-C#\hc_block\BlockGame\BlockGame\obj\Debug\BlockGame.Form2.resources

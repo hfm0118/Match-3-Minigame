@@ -144,7 +144,11 @@ namespace BlockGame
             }
 
             // score += ax + bxlogx
-            int increment = 100 * sum + (int)(10 * sum * Math.Log(sum));
+            int increment = 0;
+            if (sum != 0)
+            {
+                increment = 100 * sum + (int)(10 * sum * Math.Log(sum));
+            }
             score += increment;
             step_remaining--;
             UpdateText(increment);
